@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with project development
 - 🤔 I’m looking for help with studying and updating myself with the newest technologies, so I can contribute with knowledge
 
-## Oiii eu sou a Paulo Daniel, Dsenvolvedor de software!
+## Oiii eu sou a Paulo Daniel, Desenvolvedor de software!
 <div align="center">
   <a href="https://github.com/Paulo-Mason-SkyDark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Mason-SkyDark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
